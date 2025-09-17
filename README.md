@@ -1,4 +1,4 @@
-# Directory Manager
+# Directory Manager Test
 This is the first release of the Symantec Directory Management
 RestAPI framework published right after
 the firt release of the "Symantec Directory dxagent RestAPI
